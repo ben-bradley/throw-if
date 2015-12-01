@@ -1,4 +1,4 @@
-# throw-if
+# throw-if [![Build Status](https://secure.travis-ci.org/ben-bradley/throw-if.png)](http://travis-ci.org/ben-bradley/throw-if)
 
 A small module to prevent re-writing the same error handling code again and again.
 
